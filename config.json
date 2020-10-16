@@ -1,0 +1,23 @@
+{
+  'ftp': {
+    'username': 'ftpuser',
+    'password': 'ftppass',
+    'path': ''
+  },
+  'mysql': {
+    'server': 'localhost',
+    'port': 3306,
+    'username': 'dbuser',
+    'password': 'dbpass',
+    'database': 'dbname'
+  },
+  'email': {
+    'email': [ 'mail@domain.com','mail@domain.com','mail@domain.com' ],
+    'smtp': 'mail.domain.com',
+    'subject': 'MySQL Backup',
+    'body': 'Backup Successfull',
+    'senderemail': 'sendermail@domain.com',
+    'password': 'passwd'
+  },
+  'restartTime': 1
+}
