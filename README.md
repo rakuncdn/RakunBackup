@@ -4,4 +4,4 @@ Edit the config.json to your informations.
 in restartTime;
 X is every X hours
 
-mail: teknik@sayginhost.com.tr
+mail: hakki@rakunn.net
